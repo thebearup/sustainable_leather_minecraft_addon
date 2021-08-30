@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Leather Behavior Pack",
+        "description": "Sustainable Leather Behavior Pack",
         "name": "Leather Behavior Pack",
         "uuid": "af3eabb9-9a4c-4f96-8f32-45ec0dbe4e97",
         "version": [ 0, 0, 3 ],
@@ -9,7 +9,7 @@
     },
     "modules": [
         {
-            "description": "Example vanilla behavior pack",
+            "description": "Sustainable Leather Behavior Pack",
             "type": "data",
             "uuid": "047932c8-d047-444c-a198-dc5650bf9d82",
             "version": [0, 0, 3]
